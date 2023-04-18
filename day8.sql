@@ -9,7 +9,7 @@ status_id INT,
 trans_id INT,
 deliver_status VARCHAR(20)
 );
-
+111
 INSERT INTO ORDER_STATUS VALUES(1000,1,'Delivered'),
 								(1001,2,'Delivered'),
                                 (1001,3,'Delivered'),
